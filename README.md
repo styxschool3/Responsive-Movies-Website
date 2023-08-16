@@ -1,3 +1,9 @@
+
+https://github.com/RIDA-4All/Responsive-Movies-Website/assets/123807873/f418eeff-654e-4578-bfb6-51464a6906bd
+
+https://github.com/RIDA-4All/Responsive-Movies-Website/assets/123807873/ca55f043-7c36-4ea3-ab51-e145c0352d8b
+
+https://github.com/RIDA-4All/Responsive-Movies-Website/assets/123807873/7183b8a4-0602-43e8-8571-750ed8f6e19e
 # Responsive-Movies-Website
 
 # Key Features of the Responsive Movies Website
@@ -28,15 +34,10 @@ The Swiper CSS and JavaScript files are linked for the carousel functionality.
 External Boxicons CSS is used for the iconography.
 # JavaScript Interactivity:
 JavaScript code in the linked "script.js" file is responsible for enabling interactive features and functionality on the website
-
-
-
-
-
-
-
-
-
+ # HERE VIDEO TO WATCH OUTPUT
+ Uploading lv_0_20230816081523.mp4…
+ Uploading lv_0_20230816081642.mp4…
+ Uploading lv_0_20230816084117.mp4…
 
 
 
