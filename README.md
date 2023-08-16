@@ -34,9 +34,6 @@ The Swiper CSS and JavaScript files are linked for the carousel functionality.
 External Boxicons CSS is used for the iconography.
 # JavaScript Interactivity:
 JavaScript code in the linked "script.js" file is responsible for enabling interactive features and functionality on the website
- Uploading lv_0_20230816084117.mp4…
- Uploading lv_0_20230816081642.mp4…
- Uploading lv_0_20230816081523.mp4…
  
  
 
